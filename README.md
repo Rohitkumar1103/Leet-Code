@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
@@ -15,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0001-two-sum) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0020-valid-parentheses) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2727-number-of-senior-citizens) |
 ## Sliding Window
 |  |
@@ -55,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
