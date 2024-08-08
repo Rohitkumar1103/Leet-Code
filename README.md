@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0921-spiral-matrix-iii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0921-spiral-matrix-iii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -37,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
