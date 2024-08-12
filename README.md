@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Counting
 |  |
 | ------- |
@@ -113,4 +115,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0789-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
