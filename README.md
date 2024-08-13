@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0870-magic-squares-in-grid](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0870-magic-squares-in-grid) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
