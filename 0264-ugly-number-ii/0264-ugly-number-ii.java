@@ -1,20 +1,23 @@
+class Ugly{
+public int[] nums = new int[1690];
+Ugly(){
+    nums[0] = 1;
+    int ugly,i2 = 0,i3=0,i5=0;
+
+    for(int i=1;i<1690;i++){
+        ugly = Math.min(Math.min(nums[i2]*2,nums[i3]*3),nums[i5]*5);
+        nums[i] = ugly;
+
+        if(ugly == nums[i2]*2) ++i2;
+        if(ugly == nums[i3]*3) ++i3;
+        if(ugly == nums[i5]*5) ++i5;
+        
+    }
+}
+}
 class Solution {
+    public static Ugly u = new Ugly();
     public int nthUglyNumber(int n) {
-        if (n <= 0) return 0; 
-        if (n == 1) return 1; 
-        
-        int t2 = 0, t3 = 0, t5 = 0; 
-        int[] k = new int[n];
-        k[0] = 1;
-        
-        for (int i = 1; i < n; i++) {
-            k[i] = Math.min(k[t2] * 2, Math.min(k[t3] * 3, k[t5] * 5));
-            
-            if (k[i] == k[t2] * 2) t2++;
-            if (k[i] == k[t3] * 3) t3++;
-            if (k[i] == k[t5] * 5) t5++;
-        }
-        
-        return k[n - 1];
+        return u.nums[n-1];
     }
 }
