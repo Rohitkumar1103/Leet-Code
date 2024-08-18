@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0001-two-sum) |
+| [0264-ugly-number-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0066-plus-one) |
+| [0264-ugly-number-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0870-magic-squares-in-grid) |
 ## Recursion
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -151,5 +154,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2067-maximum-number-of-points-with-cost) |
 <!---LeetCode Topics End-->
