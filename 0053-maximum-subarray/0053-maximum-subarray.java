@@ -17,14 +17,13 @@
 
 class Solution {
     public int maxSubArray(int[] nums) {
-        int currsum=0,maxsum=Integer.MIN_VALUE;
-        for(int i=0;i<nums.length;i++){
-            currsum = currsum + nums[i];
-            maxsum = Math.max(maxsum,currsum);
-            if(currsum<=0){
-                currsum=0;
-            }
+        int sum=0;
+        int largest=nums[0];
+        for (int ele:nums){
+            sum+=ele;
+            largest=sum>largest ? sum : largest;
+            if(sum<0)sum=0;
         }
-        return maxsum;
+        return largest;
     }
 }
