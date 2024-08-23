@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0624-maximum-distance-in-arrays](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0664-strange-printer) |
