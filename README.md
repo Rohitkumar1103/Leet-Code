@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0273-integer-to-english-words](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0273-integer-to-english-words) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0664-strange-printer) |
