@@ -1,14 +1,14 @@
 class Solution {
     public int minimumChairs(String s) {
-        int count = 0, ans = 0;
+        int count = 0, minChair = 0; // count
         for(int i=0; i<s.length(); i++){
             if(s.charAt(i) == 'E'){
                 count++;
             } else{
                 count--;
             }
-            ans = Math.max(count, ans);
+            minChair = Math.max(count, minChair);
         }
-        return ans;
+        return minChair;
     }
 }
