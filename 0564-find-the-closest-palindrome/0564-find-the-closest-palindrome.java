@@ -1,46 +1,40 @@
 class Solution {
-  public String nearestPalindromic(String n) {
-    final long[] palindromes = getPalindromes(n);
-    return Math.abs(palindromes[0] - Long.parseLong(n)) <=
-            Math.abs(palindromes[1] - Long.parseLong(n))
-        ? String.valueOf(palindromes[0])
-        : String.valueOf(palindromes[1]);
-  }
-
-  // Returns the two closest palindromes to the given number.
-  private long[] getPalindromes(final String s) {
-    final long num = Long.parseLong(s);
-    final int n = s.length();
-    long[] palindromes = new long[2];
-    final String half = s.substring(0, (n + 1) / 2);
-    final String reversedHalf = new StringBuilder(half.substring(0, n / 2)).reverse().toString();
-    final long candidate = Long.parseLong(half + reversedHalf);
-
-    if (candidate < num)
-      palindromes[0] = candidate;
-    else {
-      final String prevHalf = String.valueOf(Long.parseLong(half) - 1);
-      final String reversedPrevHalf =
-          new StringBuilder(prevHalf.substring(0, Math.min(prevHalf.length(), n / 2)))
-              .reverse()
-              .toString();
-      if (n % 2 == 0 && Long.parseLong(prevHalf) == 0)
-        palindromes[0] = 9;
-      else if (n % 2 == 0 && prevHalf.equals("9"))
-        palindromes[0] = Long.parseLong(prevHalf + '9' + reversedPrevHalf);
-      else
-        palindromes[0] = Long.parseLong(prevHalf + reversedPrevHalf);
+    public String nearestPalindromic(String n) {
+        // edge cases, no
+        
+        int len = n.length();
+        int i = len % 2 == 0 ? len / 2 - 1: len / 2;
+        long left = Long.parseLong(n.substring(0, i+1));
+        
+        // input: n 12345
+        List<Long> candidate = new ArrayList<>();
+        candidate.add(getPalindrome(left, len % 2 == 0)); // 12321
+        candidate.add(getPalindrome(left+1, len % 2 == 0)); // 12421
+        candidate.add(getPalindrome(left-1, len % 2 == 0)); // 12221
+        candidate.add((long)Math.pow(10, len-1) - 1); // 9999
+        candidate.add((long)Math.pow(10, len) + 1); // 100001
+        
+        long diff = Long.MAX_VALUE, res = 0, nl = Long.parseLong(n);
+        for (long cand : candidate) {
+            if (cand == nl) continue;
+            if (Math.abs(cand - nl) < diff) {
+                diff = Math.abs(cand - nl);
+                res = cand;
+            } else if (Math.abs(cand - nl) == diff) {
+                res = Math.min(res, cand);
+            }
+        }
+        
+        return String.valueOf(res);
     }
-
-    if (candidate > num)
-      palindromes[1] = candidate;
-    else {
-      final String nextHalf = String.valueOf(Long.parseLong(half) + 1);
-      final String reversedNextHalf =
-          new StringBuilder(nextHalf.substring(0, n / 2)).reverse().toString();
-      palindromes[1] = Long.parseLong(nextHalf + reversedNextHalf);
+    
+    private long getPalindrome(long left, boolean even) {
+        long res = left;
+        if (!even) left = left / 10;
+        while (left > 0) {
+            res = res * 10 + left % 10;
+            left /= 10;
+        }
+        return res;
     }
-
-    return palindromes;
-  }
 }
