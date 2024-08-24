@@ -1,3 +1,4 @@
+//Approach 1: Recursion ❌ TLE ❌
 // class Solution {
 //     public int climbStairs(int n) {
 //         if (n == 0 || n == 1) {
@@ -7,6 +8,7 @@
 //     }
 // }
 
+//Approach 2: Space Optimization
 class Solution {
     public int climbStairs(int n) {
         if (n == 0 || n == 1) {
