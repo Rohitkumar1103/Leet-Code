@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0168-excel-sheet-column-title) |
 | [0264-ugly-number-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0273-integer-to-english-words) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0650-2-keys-keyboard) |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0053-maximum-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
