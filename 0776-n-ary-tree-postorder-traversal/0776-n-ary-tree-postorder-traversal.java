@@ -17,19 +17,41 @@ class Node {
 };
 */
 
-class Solution {
-    public List<Integer> postorder(Node root) {
-        if (root == null) return new ArrayList<>();
+// class Solution {
+//     public List<Integer> postorder(Node root) {
+//         if (root == null) return new ArrayList<>();
 
-        List<Integer> res = new ArrayList<>();
-        dfs(root, res);
-        return res;
+//         List<Integer> res = new ArrayList<>();
+//         dfs(root, res);
+//         return res;
+//     }
+
+//     private void dfs(Node root, List<Integer> res) {
+//         for (Node child : root.children) {
+//             dfs(child, res);
+//         }
+//         res.add(root.val);
+//     }
+// }
+
+
+class Solution {
+    List<Integer> list = new ArrayList<>();
+    public List<Integer> postorder(Node root) {
+        if(root == null) return list;
+
+        traverse(root);
+        list.add(root.val);
+        return list;
     }
 
-    private void dfs(Node root, List<Integer> res) {
-        for (Node child : root.children) {
-            dfs(child, res);
+    private void traverse(Node root){
+        if(root.children == null || root.children.size() == 0) return;
+
+        for(Node child : root.children){            
+            traverse(child);
+            list.add(child.val);
         }
-        res.add(root.val);
+
     }
 }
