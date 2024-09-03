@@ -8,7 +8,7 @@ class Solution {
         // Step 2: Convert the resulting string to an integer
         int sum = 0;
         for( char digit : sb.toString().toCharArray()){
-            sum += digit - '0';
+            sum += digit;
         }
         // Step 3: Apply the transformation k times
         for(int i=1; i<k; i++){
