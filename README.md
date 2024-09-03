@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0664-strange-printer) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2727-number-of-senior-citizens) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0921-spiral-matrix-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3447-clear-digits) |
 ## Breadth-First Search
