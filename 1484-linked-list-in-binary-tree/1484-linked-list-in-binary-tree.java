@@ -13,6 +13,7 @@ class Solution {
         else
         return path(th,root.left,th) || path(th,root.right,th);
     }
+    
     public boolean isSubPath(ListNode head, TreeNode root) {
         if(head==null) return true;
         if(root==null) return false;
