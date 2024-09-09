@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2411-spiral-matrix-iv](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2411-spiral-matrix-iv) |
 | [2727-number-of-senior-citizens](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2727-number-of-senior-citizens) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2411-spiral-matrix-iv](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2411-spiral-matrix-iv) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3447-clear-digits) |
 ## Breadth-First Search
@@ -256,5 +259,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0203-remove-linked-list-elements) |
 | [0725-split-linked-list-in-parts](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
