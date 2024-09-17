@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0906-walking-robot-simulation) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0999-regions-cut-by-slashes](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0999-regions-cut-by-slashes) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0664-strange-printer) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Math
