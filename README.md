@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2755-extra-characters-in-a-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3447-clear-digits) |
 ## Sliding Window
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2755-extra-characters-in-a-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -321,4 +325,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
