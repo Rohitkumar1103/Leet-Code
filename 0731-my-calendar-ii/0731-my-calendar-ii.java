@@ -74,13 +74,5 @@ public class MyCalendarTwo {
         return true;
     }
 
-    public static void main(String[] args) {
-        MyCalendarTwo myCalendarTwo = new MyCalendarTwo();
-        System.out.println(myCalendarTwo.book(10, 20)); // returns true
-        System.out.println(myCalendarTwo.book(50, 60)); // returns true
-        System.out.println(myCalendarTwo.book(10, 40)); // returns true
-        System.out.println(myCalendarTwo.book(5, 15));  // returns false
-        System.out.println(myCalendarTwo.book(5, 10));  // returns true
-        System.out.println(myCalendarTwo.book(25, 55)); // returns true
-    }
+
 }
