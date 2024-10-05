@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Stack
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0567-permutation-in-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
