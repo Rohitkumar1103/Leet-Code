@@ -11,6 +11,7 @@ class Solution {
         }
         
         int maxWidth = 0;
+
         
         // Step 2: Traverse from the end and find maximum width ramp
         for (int j = n - 1; j >= 0; --j) {
