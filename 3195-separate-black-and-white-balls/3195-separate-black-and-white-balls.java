@@ -7,7 +7,7 @@ class Solution {
                 swap += (long) black; 
             else
                 black++; 
-        }
+        
         return swap;
     }
 }
