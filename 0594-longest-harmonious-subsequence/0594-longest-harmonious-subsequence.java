@@ -9,7 +9,6 @@ class Solution {
             if(hm.containsKey(key+1)){
                 maxLength = Math.max(maxLength, hm.get(key) + hm.get(key+1));
             }
-            
         }
         return maxLength;
     }
