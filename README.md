@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3195-separate-black-and-white-balls](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3195-separate-black-and-white-balls) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
 | ------- |
