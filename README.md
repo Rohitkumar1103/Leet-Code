@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0283-move-zeroes) |
 | [0539-minimum-time-difference](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0624-maximum-distance-in-arrays) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
