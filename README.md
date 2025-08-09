@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0273-integer-to-english-words) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0273-integer-to-english-words) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
