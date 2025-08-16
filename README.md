@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0219-contains-duplicate-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0567-permutation-in-string) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0264-ugly-number-ii) |
