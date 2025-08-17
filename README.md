@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0539-minimum-time-difference](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0624-maximum-distance-in-arrays) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0731-my-calendar-ii) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
