@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0476-number-complement) |
