@@ -20,11 +20,12 @@
 //     }
 // }
 
-
+//ABOVE CODE RUNS WITH O(n) COMPLEXITY
+//BELOW CODE RUNS WITH O(nLOGn) COMPLEXITY 
 
 class Solution {
     public int longestConsecutive(int[] nums) {
-        if (nums.length == 0) return 0; // handle empty array
+        if (nums.length == 0) return 0;
 
         Arrays.sort(nums);
         int count = 1, maxLen = 1;
@@ -34,7 +35,7 @@ class Solution {
                 count++;
                 maxLen = Math.max(maxLen, count);
             } else if (nums[i+1] != nums[i]) {
-                count = 1; // reset if not consecutive (ignore duplicates)
+                count = 1;
             }
         }
         return maxLen;
