@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
