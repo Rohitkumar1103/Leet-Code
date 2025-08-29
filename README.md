@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
