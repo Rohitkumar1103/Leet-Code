@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1002-maximum-width-ramp) |
+| [1039-find-the-town-judge](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1039-find-the-town-judge) |
 | [1240-stone-game-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1435-xor-queries-of-a-subarray) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0999-regions-cut-by-slashes](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0999-regions-cut-by-slashes) |
+| [1039-find-the-town-judge](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -539,4 +541,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0183-customers-who-never-order) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
