@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0066-plus-one) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0141-linked-list-cycle) |
