@@ -7,7 +7,6 @@ class Solution {
                 return true;
             }
             set.add(num);
-
         }
         return false;
     }
