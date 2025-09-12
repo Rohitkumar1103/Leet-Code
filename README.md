@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0075-sort-colors) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0169-majority-element) |
