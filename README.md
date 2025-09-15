@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0432-all-oone-data-structure](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0432-all-oone-data-structure) |
+| [0560-subarray-sum-equals-k](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 | [0870-magic-squares-in-grid](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0870-magic-squares-in-grid) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0731-my-calendar-ii) |
 | [1240-stone-game-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1435-xor-queries-of-a-subarray) |
