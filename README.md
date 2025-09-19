@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0504-base-7](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0504-base-7) |
 | [0539-minimum-time-difference](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0539-minimum-time-difference) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0394-decode-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0394-decode-string) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1002-maximum-width-ramp) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0394-decode-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
