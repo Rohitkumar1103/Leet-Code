@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
