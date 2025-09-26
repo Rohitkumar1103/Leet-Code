@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0729-my-calendar-i) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+| [0611-valid-triangle-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0731-my-calendar-ii) |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0409-longest-palindrome) |
+| [0611-valid-triangle-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0890-lemonade-change) |
