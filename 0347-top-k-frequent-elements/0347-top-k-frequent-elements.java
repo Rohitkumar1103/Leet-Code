@@ -5,15 +5,23 @@ class Solution {
         for(int num : nums){
             map.put(num, map.getOrDefault(num, 0) +1);
         }
-        List<Integer> keys = new ArrayList<>(map.keySet());
-        keys.sort((a, b) -> map.get(b) - map.get(a)); // descending order
-
-        int[] result = new int[k];
-        for (int i = 0; i < k; i++) {
-            result[i] = keys.get(i);
+        List<Integer>[] buckets = new List[nums.length+1];
+        for(int key : map.keySet()){
+            int freq = map.get(key);
+            if(buckets[freq] == null) buckets[freq] = new ArrayList<>();
+            buckets[freq].add(key);
         }
 
-        return result;
+        int[] result = new int[k];
+        int idx = 0;
+        for(int i= buckets.length-1; i>=0 && idx < k; i--){
+            if(buckets[i] != null){
+                for(int num : buckets[i]){
+                    result[idx++] = num;
+                    if(idx == k) break;
+                }
+            }
+        }
+        return result;   
     }
 }
-//O(nLogn)
