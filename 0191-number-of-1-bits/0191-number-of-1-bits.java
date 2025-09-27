@@ -1,13 +1,9 @@
 class Solution {
     public int hammingWeight(int n) {
-        String bin = Integer.toBinaryString(n);
         int count = 0;
-
-        for(int i=0; i<bin.length(); i++){
-            char bit = bin.charAt(i);
-            if(bit == '1'){
-                count++;
-            }
+        while (n != 0) {
+            count += (n & 1);  // check last bit
+            n >>>= 1;          // unsigned right shift
         }
         return count;
     }
