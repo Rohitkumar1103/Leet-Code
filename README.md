@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0075-sort-colors) |
