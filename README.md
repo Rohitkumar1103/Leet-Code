@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1002-maximum-width-ramp) |
+| [1018-largest-perimeter-triangle](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1018-largest-perimeter-triangle) |
 | [1039-find-the-town-judge](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1039-find-the-town-judge) |
 | [1240-stone-game-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0870-magic-squares-in-grid) |
+| [1018-largest-perimeter-triangle](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1018-largest-perimeter-triangle) |
 | [1070-convert-to-base-2](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1070-convert-to-base-2) |
 | [1240-stone-game-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1240-stone-game-ii) |
 | [1448-maximum-69-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1448-maximum-69-number) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1018-largest-perimeter-triangle](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1448-maximum-69-number) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
