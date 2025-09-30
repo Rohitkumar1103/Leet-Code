@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1240-stone-game-ii) |
 | [1448-maximum-69-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1448-maximum-69-number) |
 | [2155-find-missing-observations](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2155-find-missing-observations) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2481-strictly-palindromic-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -634,4 +637,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0948-sort-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
