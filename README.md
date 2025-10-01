@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-convert-to-base-2](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1070-convert-to-base-2) |
 | [1240-stone-game-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1240-stone-game-ii) |
 | [1448-maximum-69-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1448-maximum-69-number) |
+| [1642-water-bottles](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1642-water-bottles) |
 | [2155-find-missing-observations](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2155-find-missing-observations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2481-strictly-palindromic-number) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0921-spiral-matrix-iii) |
+| [1642-water-bottles](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2058-concatenation-of-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2058-concatenation-of-array) |
