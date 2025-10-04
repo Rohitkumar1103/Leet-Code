@@ -20,7 +20,7 @@ class Solution {
         int count = 1;
         int last = price[0];
 
-        for(int i=0; i<price.length; i++){
+        for(int i=1; i<price.length; i++){
             if(price[i] - last >= minDiff){
                 count++;
                 last = price[i];
