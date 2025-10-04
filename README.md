@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Two Pointers
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0731-my-calendar-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Tree
 |  |
 | ------- |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1448-maximum-69-number) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3195-separate-black-and-white-balls](https://github.com/Rohitkumar1103/Leet-Code/tree/master/3195-separate-black-and-white-balls) |
