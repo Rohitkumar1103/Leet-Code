@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0731-my-calendar-ii) |
+| [0816-design-hashset](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0890-lemonade-change) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
+| [0816-design-hashset](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0816-design-hashset) |
 | [0870-magic-squares-in-grid](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0816-design-hashset](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Binary Search Tree
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0328-odd-even-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0725-split-linked-list-in-parts) |
+| [0816-design-hashset](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Rohitkumar1103/Leet-Code/tree/master/2411-spiral-matrix-iv) |
@@ -589,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0214-shortest-palindrome) |
+| [0816-design-hashset](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0816-design-hashset) |
 ## Trie
 |  |
 | ------- |
