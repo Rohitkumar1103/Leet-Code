@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0906-walking-robot-simulation) |
+| [0917-boats-to-save-people](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0917-boats-to-save-people) |
 | [0921-spiral-matrix-iii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0999-regions-cut-by-slashes) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0917-boats-to-save-people](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0917-boats-to-save-people](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0917-boats-to-save-people) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1923-sentence-similarity-iii) |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rohitkumar1103/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Rohitkumar1103/Leet-Code/tree/master/1448-maximum-69-number) |
